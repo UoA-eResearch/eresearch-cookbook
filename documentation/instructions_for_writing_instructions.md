@@ -17,6 +17,11 @@ precise task it describes. The heading refers to a fixed goal the reader has in
 mind when looking for a recipe. e.g. 'Loading data in .csv format into a MySQL 
 database'.
 
+- Describe any relevant information about the end product of the recipe first -
+this facilitates comprehension and execution by giving us the right mental 
+model to begin with. e.g. "You are going to draw a house. Draw a rectange with
+a triangle above..."
+
 - Use subheadings that fit the main heading and break the task into smaller 
 subgoals - e.g. "Open a connection to MySQL". Subheadings are important to help
 locate information when browsing, and locating info when moving between the 
