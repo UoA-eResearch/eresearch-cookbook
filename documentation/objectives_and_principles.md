@@ -7,9 +7,9 @@ In terms of designing the whole cookbook and recipes, we formulate the key (uppe
 
 Below, we discuss the key principles that the design of eResearch-cookbook follows:
 <ol>
-<li><b>Open:</b> The principle of openness draws from the notion of 'Open Science' to keep our scientific knowledge free to use, re-use and distribute without legal, technological or social constraints. All content, code and material well documented and shared with the community under open licences (CC-BY) for reuse.</li>
-<li><b>Modular:</b> Modularity refers to keep unrelated parts of a systems separated and related parts grouped together. This supports changing a component or adding new components without adversely affecting other components. Putting related parts together makes it easier to see the relationships between them when debugging them or adding functionality to them. eResearch-cookbook adheres to this principle to make our system design modular to be easily extendable. </li>
-<li><b>Evolvavble/Changeable:</b></li>
+<li><b>Openness:</b> The principle of openness draws from the notion of 'Open Science' to keep our scientific knowledge free to use, re-use and distribute without legal, technological or social constraints. All content, code and material well documented and shared with the community under open licences (CC-BY) for reuse.</li>
+<li><b>Modularity:</b> Modularity refers to keep unrelated parts of a systems separated and related parts grouped together. This supports changing a component or adding new components without adversely affecting other components. Putting related parts together makes it easier to see the relationships between them when debugging them or adding functionality to them. eResearch-cookbook adheres to this principle to make our system design modular to be easily extendable and to be easy to debug. </li>
+<li><b>Evolvavbility:</b> The notion of evolvablity refers to the iterative process of designing a system and how our requirements keep changing all the time. Especially, the idea of eResearch-cookbook requires a bottom-up approach to design the system through the recipes. This would require the system to be designed in a fashion to allow it to changes and update.</li> 
 <li><b>Cognitively pleasing:</b></li>
 <li><b>Task and performance-oriented:</b></li>
 
