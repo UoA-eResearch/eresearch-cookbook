@@ -47,10 +47,12 @@ This helps the reader keep their place as they move back and forth between task
 and instructions. Explain any trouble spots in the procedure _before_ not 
 after, even if we have to break the chronological order.
 
-
 - Include feedback in the instructions, so the user knows what they should 
 expect to see if the actions have been executed successfully.
 
+- Ideally, recipes should fit on one or two A4 pages, should researchers prefer
+to have hard copies for reference. The principle being all steps and 
+information should fit on a one or two page open spread.
 
 
 
