@@ -38,8 +38,9 @@ the device".
 to show locations. (describing locations with words can be awkward).
 
 - Use and active rather than a passive voice, and the affirmative rather than
-the passive. Use short sentences, starting with verbs. e.g. "put, uncover, turn
-clockwise"...
+the passive. Use short sentences, often we start with verbs or adverbs e.g. 
+"Put, If, Uncover, Turn clockwise, When...". Dont switch terminology within the
+document. 
 
 - Number steps and use a chronological vertical organisation/sequence. 
 This helps the reader keep their place as they move back and forth between task
