@@ -16,6 +16,7 @@ categories: Recipe
 * Optional: Setup X11 forwarding
 * Related: Setup SSH keys
 * Related: Setup SSH config
+* More: SSH documentation
 
 ## Requirements
 
@@ -67,5 +68,9 @@ See another recipe
 ## Related: Setup SSH config
 
 See anthoer recipe
+
+## More: SSH documentation
+
+Links to standard documentation and usage of man pages.
 
 
