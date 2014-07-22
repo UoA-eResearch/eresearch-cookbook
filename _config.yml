@@ -1,0 +1,12 @@
+# Site settings
+title: eResearch cookbook - 2 minute recipes for scientists
+email: your-email@domain.com
+description: "A template for capturing task recipes for repeatable scientific practices in a consistent format and hosted in a centralised online repository"
+baseurl: "/eresearch-cookbook"
+url: "http://uoa-eresearch.github.io/eresearch-cookbook"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
