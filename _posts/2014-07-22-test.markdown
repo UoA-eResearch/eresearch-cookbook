@@ -9,21 +9,21 @@ categories: Recipe
 
 > *It is common practice to connect to remote Linux machines using the command line. This is very useful in the context of server administration and high perfomance computing. X11 forwarding can be enabled for remote tasks that require a graphical user interface.* 
 
-## Outline 
+# Outline 
 
-1. Open a terminal client
-2. Establish an SSH connection
-3. Optional: Setup X11 forwarding
+* Open a terminal client
+* Establish an SSH connection
+* Optional: Setup X11 forwarding
 
-## 1. Open a terminal client
-
-blah blah
-
-## 2. Establish an SSH connection
+## Open a terminal client
 
 blah blah
 
-## 3. Optional: Setup X11 forwarding
+## Establish an SSH connection
+
+blah blah
+
+## Optional: Setup X11 forwarding
 
 
 {% highlight ruby %}
