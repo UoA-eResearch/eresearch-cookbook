@@ -1,5 +1,52 @@
-HI
-==
+---
+layout: post
+title:  "SSH Login"
+date:   2014-07-22 12:04:29
+categories: Recipe
+---
 
-hello
------
+### How to connect to a remote Linux machine via SSH
+
+> *It is common practice to connect to remote Linux machines using the command line. This is very useful in the context of server administration and high perfomance computing. X11 forwarding can be enabled for remote tasks that require a graphical user interface.* 
+
+## Outline 
+
+# Open a terminal client
+
+# Establish an SSH connection
+
+# Optional: Setup X11 forwarding
+
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+@echo - the text a user should type (almost exactly) into the terminal/window @echo variable - the text a user needs to type, but substitite with their own local information (username etc..)
+
+Table - self explanatory. html can do this.
+
+Table caption - self explanatory.
+
+Footer
+
+ : License . CC snippet to contain licence text, image, link.
+ : Author . Name, link, @handle
+ : Version . date, v, (datetime, text field)
+
+
+You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
+To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+
+Jekyll also offers powerful support for code snippets:
+
+
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll]:    http://jekyllrb.com
