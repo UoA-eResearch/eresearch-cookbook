@@ -7,7 +7,7 @@ This is just a start - please add/edit.
 For now just focused on visual and instructional organisation.
 Metadata is important but can be extended/built later...
 
-Also not worred yet about the best html or other elements/strucrures to map 
+Also not worred yet about the best html or other elements/structures to map 
 them to.... 
 
 We are asking what are the elements of page design, and what makes a 
@@ -16,11 +16,13 @@ good design for instructions....
 Design and layout is important.
 
 Basic design principles - many taken from the literature...
+
 Good things include
-	- less text
-	- lots of whitespace (our eyes need breaks)
-	- left justification
-	- pictures/illustrations
+- less text
+- lots of whitespace (our eyes need breaks)
+- left justification
+- pictures/illustrations
+
 
 We need to map the following document elements to a visual style and code
 container.
@@ -46,8 +48,9 @@ Figure caption - text, numbered... title and description for figure.
 
 Code fragment - used to dispaly what a user should type, or see on screen (script or at the terminal)
 
-@echo - the text a user should type (almost exactly) into the terminal/window
-@echo variable - the text a user needs to type, but substitite with their own local information (username etc..)
+Echo - the text a user should type (almost exactly) into the terminal/window
+
+Echo variable - the text a user needs to type, but substitite with their own local information (username etc..)
 
 Table - self explanatory. html can do this.
 

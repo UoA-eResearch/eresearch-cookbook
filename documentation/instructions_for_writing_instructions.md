@@ -28,7 +28,7 @@ locate information when browsing, and locating info when moving between the
 instrutions and the task. (Explicit subgoals can also indirectly help learning,
 as they often re-occur in different recipes/contexts).
 
-- Describe one action per step.
+- Break each goal/sub goal into single steps. Describe one action per step.
 
 - Word order should mirror action order. e.g. don't write "switch on after 
 releasing the red lever." Instead write "Release the red lever and switch on 
@@ -42,7 +42,7 @@ the passive. Use short sentences, often we start with verbs or adverbs e.g.
 "Put, If, Uncover, Turn clockwise, When...". Dont switch terminology within the
 document. 
 
-- Number steps and use a chronological vertical organisation/sequence. 
+- Number steps and use a chronological, vertical organisation/sequence. 
 This helps the reader keep their place as they move back and forth between task
 and instructions. Explain any trouble spots in the procedure _before_ not 
 after, even if we have to break the chronological order.
