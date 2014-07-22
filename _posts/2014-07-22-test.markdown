@@ -34,35 +34,29 @@ Windows doesn't have a native SSH client. We recommend downloading MobaXterm. Mo
 
 Note: If you are unable to install software on your computer, choose the *executable* version.
 
-1. Start MobaXterm
-2. Enter the following into the MobaXterm command line. Replace user and remote.host with your user account on the remote machine and address of the remote host
-
-{% highlight bash %}
-ssh user@remote.host
-{% endhighlight %}
-
-3. Enter your remote account password if prompted
-4. You should now be logged in!
-
 # Mac OS / Linux
 
-1. Open the 'Terminal' program.
-2. Enter the following into the MobaXterm command line. Replace user and remote.host with your user account on the remote machine and address of the remote host
-
-{% highlight bash %}
-ssh user@remote.host
-{% endhighlight %}
-
-3. Enter your remote account password if prompted
-4. You should now be logged in!
+Use the Terminal program. This is usually found under Utilities or Accessories.
 
 ## Establish an SSH connection
 
-blah blah
+1. Open the terminal client
+2. Enter the following into the terminal command line. Replace user and remote.host with your user account on the remote machine and address of the remote host
+
+{% highlight bash %}
+ssh user@remote.host
+{% endhighlight %}
+
+3. Enter your remote account password if prompted
+4. You should now be logged in!
 
 ## Optional: Setup X11 forwarding
 
-blash blah
+To enable X11 forwarding, use the -Y flag in your ssh command:
+
+{% highlight bash %}
+ssh -Y user@remote.host
+{% endhighlight %}
 
 
 
