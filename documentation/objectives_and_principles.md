@@ -1,6 +1,14 @@
 Objectives and prinicples for the Cookbook
 ==========================================
 
+We adopt the principles and guidelines used for the information organization in bibliographic systems (library catalogs, indexing, etc.) [1] to articulate and inform the making of eResearch-cookbook idea. The overarching objective of the notion of eResearch-cookbook is to create an open, online (web 2.0 style) repository for researchers to assist them in their day-to-day repeatable technical tasks by providing them modular and cognitively pleasing recipes. We also want the communication to be two-way and so researchers/ereseachers should be able to contribute, update and revise the recipes.
+
+In terms of designing the whole cookbook and recipes, we formulate the key (upper-level) objectives and principles that the system should adhere to. The objectives state what this system is suppose to accomplish and the principles determine the nature of the means to meet this objectives. To make the distinction between objectives and principles clear, we use this approach of conceptual and operational entities. The principles are conceptual entities, that characterizes what is to be defined in terms of system's properties. On the other hand, objectives are operational, i.e. they specify the functionalities or steps tp be followed to idetify what is being defined. For example, a cake can be characterized by the principles of sweetness, spongy etc., but it is defined operationally by its recipe.
+
+Below are the objectives and principles for eResearch-cookbook:
+
+
+
 
 
 
@@ -36,3 +44,5 @@ a one or two page open spread.
 
 Objective | Principle
 
+
+[1] Svenonius, E. (2000). The Intellectual Foundation of Information Organization. Cambridge, MA: The MIT Press.
