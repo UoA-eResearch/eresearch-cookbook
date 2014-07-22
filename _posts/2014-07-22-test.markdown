@@ -11,11 +11,19 @@ categories: Recipe
 
 ## Outline 
 
-# Open a terminal client
+1. Open a terminal client
+2. Establish an SSH connection
+3. Optional: Setup X11 forwarding
 
-# Establish an SSH connection
+## 1. Open a terminal client
 
-# Optional: Setup X11 forwarding
+blah blah
+
+## 2. Establish an SSH connection
+
+blah blah
+
+## 3. Optional: Setup X11 forwarding
 
 
 {% highlight ruby %}
