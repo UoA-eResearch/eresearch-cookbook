@@ -60,11 +60,11 @@ To enable X11 forwarding, use the -Y flag in your ssh command:
 ssh -Y user@remote.host
 {% endhighlight %}
 
-## Setup SSH keys
+## Related: Setup SSH keys
 
 See another recipe
 
-## Setup SSH config
+## Related: Setup SSH config
 
 See anthoer recipe
 
