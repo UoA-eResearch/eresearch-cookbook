@@ -14,8 +14,7 @@ categories: Recipe
 * Open a terminal client
 * Establish an SSH connection
 * Optional: Setup X11 forwarding
-* Related: Setup SSH keys
-* Related: Setup SSH config
+* Next: Customise your SSH setup
 * More: SSH documentation
 
 ## Requirements
