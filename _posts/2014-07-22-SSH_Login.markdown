@@ -14,7 +14,7 @@ categories: Recipe
 * Open a terminal client
 * Establish an SSH connection
 * Optional: Setup X11 forwarding
-* Next: Customise your SSH setup
+* Related: Improve your life with SSH config
 * More: SSH documentation
 
 ## Requirements
@@ -60,11 +60,7 @@ To enable X11 forwarding, use the -Y flag in your ssh command:
 ssh -Y user@remote.host
 {% endhighlight %}
 
-## Related: Setup SSH keys
-
-See another recipe
-
-## Related: Setup SSH config
+## Related: Improve your life with SSH config
 
 See anthoer recipe
 
