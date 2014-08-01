@@ -56,6 +56,8 @@ Table - self explanatory. html can do this.
 
 Table caption - self explanatory.
 
+Parallel section - container that splits screen/page vertically and contains steps/figures etc for 2 alternate instruction paths - eg PC/Mac...
+
 Footer - to hold license, author, and version information. 
 - License . CC snippet to contain licence text, image, link.
 - Author . Name, link, @handle
