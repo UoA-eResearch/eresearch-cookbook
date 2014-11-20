@@ -16,7 +16,7 @@ A template for capturing task recipes for repeatable scientific practices in a c
  The recipes are intended to be concrete, instance based examples, specific to certain tasks, software or technologies. They are short operations manuals that assume little background on behalf of the user. They don't attempt to explain all the principles or deep knowledge. Just get the job done quickly, correctly, using best practice and starting with examples.  We can link these to more detailed educational resources such as software carpentry. (when you are too busy or just starting out, a good example that exactly fits your need/task is invaluable!)
 
 ==================
-If you would like to contribute, haed over to https://etherpad.mozilla.org/sciencelab-2014summersprint-eresearch-cookbook
+If you would like to contribute, head over to https://etherpad.mozilla.org/sciencelab-2014summersprint-eresearch-cookbook
 
 Also check the example template (in-progress) on http://uoa-eresearch.github.io/eresearch-cookbook/
 
