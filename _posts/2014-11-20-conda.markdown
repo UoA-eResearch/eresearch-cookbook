@@ -34,7 +34,7 @@ link to PATH,
 3. If conda is installed you should see somehting like the following.
 
 {% highlight bash %}
-$conda -V
+$ conda -V
 conda 3.7.0
 {% endhighlight %}
 
@@ -62,9 +62,9 @@ conda create -n yourenvname python=x.x anaconda
 
 1. To activate or switch into your virtual environment, simply type the following where _yourenvname_ is the name you gave to your environement at creation.
 
-{% highlight bash %}
+```
 source activate yourenvname
-{% endhighlight %}
+```
 
 2. Activating a conda environment modifies the PATH and shell variables to point to the specific isolated Python set-up you created. The command prompt will change to indicate which conda environemnt you are currently in by prepending `(yourenvname)`. To see a list of all your environments, use the command `conda info -e`.
 
