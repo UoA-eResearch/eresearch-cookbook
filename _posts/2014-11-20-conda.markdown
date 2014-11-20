@@ -50,7 +50,7 @@ conda update conda
 
 ##3. Create a virtual environment for your project
 
-1. In the terminal client enter the following where _yourenvname_ is the name you want to call your environment, and replace _x.x+ with the Python version you wish to use. (To see a list of available python versions first, type `conda search "^python$"` and press enter.) 
+1. In the terminal client enter the following where _yourenvname_ is the name you want to call your environment, and replace _x.x_ with the Python version you wish to use. (To see a list of available python versions first, type `conda search "^python$"` and press enter.) 
 
 {% highlight bash %}
 conda create -n yourenvname python=x.x anaconda
@@ -62,9 +62,9 @@ conda create -n yourenvname python=x.x anaconda
 
 1. To activate or switch into your virtual environment, simply type the following where _yourenvname_ is the name you gave to your environement at creation.
 
-```
+{% highlight bash %}
 source activate yourenvname
-```
+{% endhighlight %}
 
 2. Activating a conda environment modifies the PATH and shell variables to point to the specific isolated Python set-up you created. The command prompt will change to indicate which conda environemnt you are currently in by prepending `(yourenvname)`. To see a list of all your environments, use the command `conda info -e`.
 
