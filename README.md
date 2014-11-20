@@ -19,3 +19,7 @@ A template for capturing task recipes for repeatable scientific practices in a c
 If you would like to contribute, haed over to https://etherpad.mozilla.org/sciencelab-2014summersprint-eresearch-cookbook
 
 Also check the example template (in-progress) on http://uoa-eresearch.github.io/eresearch-cookbook/
+
+For potenial recipes that need writing or we are thinking about writing - go here to add your own or pick one to start working on...
+https://docs.google.com/document/d/1UOfBA2SiTQZVOMwGOHfxEBN06dlSqOmzIuAT4FLzSDA/edit?usp=sharing
+
