@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Create virtual environments for python with conda"
+title:  "Create virtual environments for Anaconda python distributions using conda"
 date:   2014-11-20 12:04:29
 categories: Recipe
 ---
