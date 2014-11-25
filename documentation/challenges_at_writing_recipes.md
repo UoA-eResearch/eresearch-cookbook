@@ -1,0 +1,1 @@
+Here we can add the challenges, issues or confusions we faced while writing recipes. Addressing these challenges will help us to refine our instructions for writing recipes and may also feed into the key principles underlying the cookbook notion. This will also be helpful for researchers if they add recipes and face similar issues.
