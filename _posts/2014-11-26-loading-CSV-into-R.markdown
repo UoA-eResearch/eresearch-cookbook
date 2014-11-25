@@ -67,7 +67,7 @@ Web: http://www.statsci.org/data/oz/nzrivers.txt
 1. In the R terminal run the command below to load your data. This command will assume: The first line captures column names, the file uses commas to separate values, decimal points are used for representing numbers, and that missing fields are left blank
 
 {% highlight %}
-mydata <- read.csv("/Users/rhos012/Documents/nzrivers.txt”)
+mydata <- read.csv("/Users/rhos012/Documents/nzrivers.txt")
 mydata <- read.csv("http://www.statsci.org/data/oz/nzrivers.txt")
 {% endhighlight %}
 
