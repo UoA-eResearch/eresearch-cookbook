@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Create virtual environments for Anaconda python distributions using conda"
-date:   2014-11-20 12:04:29
+date:   2014-11-26 12:04:29
 categories: Recipe
 ---
 
@@ -20,7 +20,7 @@ categories: Recipe
 * Delete a virtual environment
 
 ## Jargon
-link to PATH, 
+link to PATH 
 
 ## Requirements
 
