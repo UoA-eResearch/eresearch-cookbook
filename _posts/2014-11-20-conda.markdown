@@ -89,7 +89,7 @@ source deactivate
 1. To delete a conda environment, enter the following, where _yourenvname_ is the name of the environment you wish to delete.
 
 {% highlight bash %}
-conda remove -n yourenvname -all
+conda remove -n yourenvname --all 
 {% endhighlight %}
 
 ## Related info
